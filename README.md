@@ -1,4 +1,4 @@
-# Word-Development-Data-using-MatplotLib
+# World-Development-Data-using-MatplotLib
 I have plot some graphs for World Development of 200 Countries in 200 Years.
 
 here i plotted world growth for year 2011. 
